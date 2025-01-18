@@ -1,0 +1,37 @@
+_repo: Spirit-of-iron-Manitou-pewabic-b-an-authentic-novel-of-the-North-West-Mounted-Police_74974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steele, Harwood
+    aliases:
+    - Steele, Howard
+    - Steele, Harwood Elmes Robert
+    birthdate: 1897
+    deathdate: 1978
+    gutenberg_agent_id: '57756'
+    url: http://www.gutenberg.org/2009/agents/57756
+description: ''
+gutenberg_issued: '2024-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74974'
+  lccn: '23013312'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hnq9dy&seq=7
+pgterms:marc905: 20241213214531steele
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bA. L. Burt Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mounted police -- Fiction'
+- !lcsh 'North West Mounted Police (Canada) -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Northwest, Canadian -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Spirit-of-iron (Manitou-pewabic) : $b an authentic novel of the North-West
+  Mounted Police'
+url: http://www.gutenberg.org/ebooks/74974
