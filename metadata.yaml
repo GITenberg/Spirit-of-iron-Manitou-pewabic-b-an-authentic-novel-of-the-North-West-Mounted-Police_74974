@@ -1,5 +1,8 @@
 _repo: Spirit-of-iron-Manitou-pewabic-b-an-authentic-novel-of-the-North-West-Mounted-Police_74974
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74974-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Steele, Harwood
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '57756'
     url: http://www.gutenberg.org/2009/agents/57756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74974#Spirit-of-iron-Manitou-pewabic-b-an-authentic-novel-of-the-North-West-Mounted-Police
 gutenberg_issued: '2024-12-25'
 gutenberg_type: Text
 identifiers:
